@@ -45,11 +45,9 @@ $navbar-default-bg: #0066cc;
   background-color: #0066cc;
 }
 
-footer {
-  margin-top: 45px;
-  padding-top: 5px;
+.article-meta-details {
   border-top: 1px solid #eaeaea;
-  color: #777;
+  margin-top: 15px;
 }
 
 .article-actions {
@@ -70,6 +68,13 @@ footer {
   border-top: 1px solid #eaeaea;
   padding-top: 15px;
   padding-bottom: 15px;
+}
+
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
 }
 
 footer a:hover {
