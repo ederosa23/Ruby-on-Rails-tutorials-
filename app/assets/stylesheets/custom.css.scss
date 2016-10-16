@@ -70,6 +70,11 @@ $navbar-default-bg: #0066cc;
   padding-bottom: 15px;
 }
 
+.listing {
+  list-style: none;  // remooves bullets
+  padding-left: 0;
+}
+
 footer {
   margin-top: 45px;
   padding-top: 5px;
