@@ -32,6 +32,7 @@ $navbar-default-bg: #0066cc;
     background-repeat: no-repeat;
     height: 550px;
 }
+
 .jumbotron h1 {
   color: #fff;
   text-align: center;
@@ -73,6 +74,17 @@ $navbar-default-bg: #0066cc;
 .listing {
   list-style: none;  // remooves bullets
   padding-left: 0;
+}
+
+.badge {
+  background-color: #CEF6F5;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+.input_checkbox {
+  width: auto !important;
 }
 
 footer {
